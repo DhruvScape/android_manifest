@@ -17,6 +17,10 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
 
+  <remote  name="scape"
+	   fetch="https://github.com/dhruvscape"
+	   revision="refs/heads/arrow-13.0" />
+
   <remote  name="arrow"
            fetch="https://github.com/ArrowOS"
            review="https://review.arrowos.net/"
